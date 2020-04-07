@@ -1,9 +1,5 @@
 package com.github.kotvertolet.youtubeaudioplayer.utilities.common;
 
-/**
- * Created by ahaman on 3/28/18.
- */
-
 public class Constants {
 
     //TODO: Put Youtube Data API v3 key here
